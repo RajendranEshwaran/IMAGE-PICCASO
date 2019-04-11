@@ -15,7 +15,7 @@ public class ProfileActivity extends AppCompatActivity {
 
     CircleImageView circleImageView;
     Button button;
-    String url ="http://blog.concretesolutions.com.br/wp-content/uploads/2015/04/Android1.png";
+    String url ="https://www.thecrazyprogrammer.com/wp-content/uploads/2015/07/The-Crazy-Programmer.png";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

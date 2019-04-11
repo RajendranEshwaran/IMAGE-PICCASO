@@ -33,13 +33,13 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-   /* public void gotoLoadActivity(View view)
+    public void gotoDownloadActivity(View view)
     {
-        Intent intent = new Intent(MainActivity.this,ImgLoadActivity.class);
+        Intent intent = new Intent(MainActivity.this,DownloadActivity.class);
         startActivity(intent);
     }
 
-    public void gotoLoadActivity(View view)
+    /*public void gotoLoadActivity(View view)
     {
         Intent intent = new Intent(MainActivity.this,ImgLoadActivity.class);
         startActivity(intent);
